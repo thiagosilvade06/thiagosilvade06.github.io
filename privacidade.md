@@ -89,6 +89,7 @@ Podemos atualizar esta política. A data da última atualização fica no topo d
 
 ## 11. Contato
 
-Hikari Hub · [E-MAIL DE CONTATO]
+Hikari Hub · thiago.silva@hikarihub.com.br
+
 
 
